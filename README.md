@@ -1,3 +1,6 @@
+
+================= Explications sur ce dépôt spécial qui sert de présentation au compte lorsqu'il porte le même nom que le compte lui-même =================
+
 ### Hi there 👋
 
 !--
