@@ -2,6 +2,8 @@
 ## ThatGameCompany Inc
 https://play.google.com/store/apps/dev?id=6258753308606912124
 
+### Store
 https://play.google.com/store/apps/details?id=com.tgc.sky.android
 
+### Site
 https://www.thatskygame.com/
